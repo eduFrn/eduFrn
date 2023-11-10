@@ -2,7 +2,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=edufrn&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufrn&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufrn&theme=synthwave&layout=compact"/>
 </p>
 
 ## Um pouco sobre mim ✨
