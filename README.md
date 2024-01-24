@@ -1,7 +1,7 @@
 # ✨ Prazer em te conhecer! Me chamo Eduardo! ✨
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=edufrn&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=edufrn&show_icons=true&theme=transparent&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufrn&theme=transparent&layout=compact"/>
 </p>
 
