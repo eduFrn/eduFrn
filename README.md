@@ -1,12 +1,12 @@
 # ✨ Prazer em te conhecer! Me chamo Eduardo! ✨
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=edufrn&show_icons=true&theme=transparent&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufrn&theme=transparent&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=edufrn&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufrn&theme=radical&layout=compact"/>
 </p>
 
 ## Um pouco sobre mim ✨
-Me chamo Eduardo, e estou cursando o 3º ano em Desenvolvimento de Sistemas na ETEC de Guaianazes, São Paulo 💻
+Me chamo Eduardo, e sou Técnico em Desenvolvimento de Sistemas pela ETEC de Guaianazes, São Paulo 💻
 
 ## Ferramentas e linguagens
 <p align="center">
